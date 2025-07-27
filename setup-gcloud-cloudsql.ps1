@@ -14,10 +14,9 @@
 [CmdletBinding()]
 param(
     [Parameter(Mandatory = $false)]
-    [string]$ProjetoGCP = "plataformagovdigital-gcp-main",
+     [string]$ProjetoGCP = "meu-projeto-gcp",
     [Parameter(Mandatory = $false)]
-    [string]$InstanciaGCP = "plataformagovdigital-gcp-main:southamerica-east1:cluster-postgresql-dev",
-    #[string]$InstanciaGCP = "plataformagovdigital-gcp-main:southamerica-east1:cluster-postgresql",
+    [string]$InstanciaGCP = "meu-projeto-gcp:regiao:cluster-bd-dev",
     [Parameter(Mandatory = $false)]
     [ValidatePattern('^v\d+\.\d+\.\d+$')]
     [string]$ProxyVersion = "v2.16.0",
