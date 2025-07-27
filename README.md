@@ -132,8 +132,6 @@ O parâmetro `$InstanciaGCP` define qual banco Cloud SQL será acessado:
 
 ---
 
-Se precisar de exemplos de conexão, prints ou suporte, consulte a documentação interna ou fale com o responsável DevOps.
-
 ---
 
 Se quiser o README em inglês ou adaptado para outro cenário, só avisar!
