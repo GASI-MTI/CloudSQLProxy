@@ -1,5 +1,3 @@
-Com certeza! Aqui está o **README** revisado, já incluindo a seção detalhada de conexão ao banco de dados após o start do proxy.
-
 ---
 
 # CloudSQLProxy.ps1
